@@ -33,4 +33,4 @@ Visit [tx-comu.org](https://tx-comu.org) to learn more about TX-COMU, membership
 
 ---
 
-TX-COMU is an independent nonprofit community and is not the credentialing authority for Texas Communications Unit personnel.
+TX-COMU is an independent nonprofit community and is not the credentialing authority for State of Texas. Please visit the Texas Department of Public Safety's Statewide Interoperability Coordinator (SWIC) Office at https://www.dps.texas.gov/section/infrastructure-operations/texas-statewide-interoperability-coordinator.
