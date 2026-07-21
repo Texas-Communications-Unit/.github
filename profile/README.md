@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../brand/assets/logos/tx-comu-logo.png" alt="Texas Communications Unit logo" width="240">
+</p>
+
 # Texas Communications Unit
 
 The **Texas Communications Unit (TX-COMU)** is an independent 501(c)(3) nonprofit supporting, connecting, and strengthening the Communications Unit community across Texas.
@@ -9,7 +13,7 @@ We bring together professionals serving in incident communications, public-safet
 - Strengthening relationships across the Communications Unit community
 - Encouraging interoperability, readiness, and professional development
 - Sharing knowledge, resources, and operational experience
-- Supporting Communications Unit, Information Technology Service Unit, and the Cybersecurity Unit
+- Supporting Communications Unit, Information Technology Service Unit, and Cybersecurity Unit disciplines
 - Developing practical, open-source tools for incident communications
 
 ## Featured Project
@@ -33,4 +37,4 @@ Visit [tx-comu.org](https://tx-comu.org) to learn more about TX-COMU, membership
 
 ---
 
-TX-COMU is an independent nonprofit community and is not the credentialing authority for State of Texas. Please visit the Texas Department of Public Safety's Statewide Interoperability Coordinator (SWIC) Office at https://www.dps.texas.gov/section/infrastructure-operations/texas-statewide-interoperability-coordinator.
+TX-COMU is an independent nonprofit community and is not the credentialing authority for the State of Texas. Credentialing authority rests with the [Texas Department of Public Safety Statewide Interoperability Coordinator (SWIC) Office](https://www.dps.texas.gov/section/infrastructure-operations/texas-statewide-interoperability-coordinator).

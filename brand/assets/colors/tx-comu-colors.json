@@ -1,0 +1,31 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "name": "TX-COMU Digital Colors",
+  "source": "TX-COMU website child theme",
+  "colors": {
+    "navy": {
+      "value": "#10233F",
+      "rgb": [16, 35, 63]
+    },
+    "blue": {
+      "value": "#1F5F99",
+      "rgb": [31, 95, 153]
+    },
+    "slate": {
+      "value": "#465466",
+      "rgb": [70, 84, 102]
+    },
+    "light": {
+      "value": "#F4F7FB",
+      "rgb": [244, 247, 251]
+    },
+    "white": {
+      "value": "#FFFFFF",
+      "rgb": [255, 255, 255]
+    },
+    "red": {
+      "value": "#D72638",
+      "rgb": [215, 38, 56]
+    }
+  }
+}

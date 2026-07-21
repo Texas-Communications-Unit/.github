@@ -1,0 +1,12 @@
+/**
+ * TX-COMU digital brand color tokens.
+ * Source: TX-COMU website child theme.
+ */
+:root {
+  --tx-comu-navy: #10233f;
+  --tx-comu-blue: #1f5f99;
+  --tx-comu-slate: #465466;
+  --tx-comu-light: #f4f7fb;
+  --tx-comu-white: #ffffff;
+  --tx-comu-red: #d72638;
+}
