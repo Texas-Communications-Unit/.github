@@ -9,7 +9,7 @@ We bring together professionals serving in incident communications, public-safet
 - Strengthening relationships across the Communications Unit community
 - Encouraging interoperability, readiness, and professional development
 - Sharing knowledge, resources, and operational experience
-- Supporting COML, COMT, COMC, ITSL, INCM, RADO, AUXCOMM, and related roles
+- Supporting Communications Unit, Information Technology Service Unit, and the Cybersecurity Unit
 - Developing practical, open-source tools for incident communications
 
 ## Featured Project
