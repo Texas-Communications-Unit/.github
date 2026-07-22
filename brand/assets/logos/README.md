@@ -17,6 +17,7 @@ The files below are preserved in [originals](originals/) with their Google Drive
 
 | File | Format and dimensions | Intended use |
 | --- | ---: | --- |
+| [TX-COMU with Symbols.PNG](originals/TX-COMU%20with%20Symbols.PNG) | PNG, 1024 × 1024 | Specialty incident-communications logo with radio, fire, tornado, and hurricane symbols; use only where appropriate |
 | [TX-COMU BLUE Text.png](originals/TX-COMU%20BLUE%20Text.png) | PNG, 1563 × 1563 | Full logo with blue TX-COMU text on a transparent canvas |
 | [TX-COMU (transparent).png](originals/TX-COMU%20%28transparent%29.png) | PNG, 1563 × 1563 | Full logo with light text on a transparent canvas for dark backgrounds |
 | [TX-COMU (transparent).svg](originals/TX-COMU%20%28transparent%29.svg) | SVG, 500 × 500 | Scalable source variant labeled transparent in the source folder |
