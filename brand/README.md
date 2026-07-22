@@ -39,7 +39,7 @@ The voice should be clear, professional, accurate, welcoming, and mission-focuse
 
 ![Texas Communications Unit logo](assets/logos/tx-comu-logo.png)
 
-Approved logo files are available in [assets/logos](assets/logos/).
+Approved logo files are available in [assets/logos](assets/logos/). The repository includes the working web assets and an unchanged archive of all current PNG and SVG logo files from the TX-COMU Google Drive logo folder.
 
 ### Usage requirements
 
