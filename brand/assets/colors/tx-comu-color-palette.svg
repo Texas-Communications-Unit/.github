@@ -1,35 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="890" viewBox="0 0 1200 890" role="img" aria-labelledby="title desc">
   <title id="title">TX-COMU digital color palette</title>
-  <desc id="desc">Six color swatches: navy, blue, slate, light, white, and red, each with its hexadecimal value displayed beneath the color block.</desc>
+  <desc id="desc">Six TX-COMU color swatches: navy, blue, slate, light, white, and red. HEX, RGB, HSL, HSV, and approximate CMYK values appear beneath each color block.</desc>
 
-  <rect width="1200" height="620" fill="#F4F7FB"/>
+  <rect width="1200" height="890" fill="#F4F7FB"/>
   <text x="60" y="65" fill="#10233F" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">TX-COMU Digital Color Palette</text>
 
   <g font-family="Arial, Helvetica, sans-serif">
     <rect x="60" y="100" width="340" height="110" rx="14" fill="#10233F"/>
-    <text x="60" y="250" fill="#10233F" font-size="26" font-weight="700">Navy</text>
-    <text x="60" y="282" fill="#465466" font-size="22">#10233F</text>
+    <text x="60" y="248" fill="#10233F" font-size="26" font-weight="700">Navy</text>
+    <text x="60" y="282" fill="#465466" font-size="18">HEX  #10233F</text>
+    <text x="60" y="310" fill="#465466" font-size="18">RGB  16, 35, 63</text>
+    <text x="60" y="338" fill="#465466" font-size="18">HSL  215.74°, 59.49%, 15.49%</text>
+    <text x="60" y="366" fill="#465466" font-size="18">HSV  215.74°, 74.60%, 24.71%</text>
+    <text x="60" y="394" fill="#465466" font-size="18">CMYK  74.60%, 44.44%, 0%, 75.29%</text>
 
     <rect x="430" y="100" width="340" height="110" rx="14" fill="#1F5F99"/>
-    <text x="430" y="250" fill="#10233F" font-size="26" font-weight="700">Blue</text>
-    <text x="430" y="282" fill="#465466" font-size="22">#1F5F99</text>
+    <text x="430" y="248" fill="#10233F" font-size="26" font-weight="700">Blue</text>
+    <text x="430" y="282" fill="#465466" font-size="18">HEX  #1F5F99</text>
+    <text x="430" y="310" fill="#465466" font-size="18">RGB  31, 95, 153</text>
+    <text x="430" y="338" fill="#465466" font-size="18">HSL  208.52°, 66.30%, 36.08%</text>
+    <text x="430" y="366" fill="#465466" font-size="18">HSV  208.52°, 79.74%, 60%</text>
+    <text x="430" y="394" fill="#465466" font-size="18">CMYK  79.74%, 37.91%, 0%, 40%</text>
 
     <rect x="800" y="100" width="340" height="110" rx="14" fill="#465466"/>
-    <text x="800" y="250" fill="#10233F" font-size="26" font-weight="700">Slate</text>
-    <text x="800" y="282" fill="#465466" font-size="22">#465466</text>
+    <text x="800" y="248" fill="#10233F" font-size="26" font-weight="700">Slate</text>
+    <text x="800" y="282" fill="#465466" font-size="18">HEX  #465466</text>
+    <text x="800" y="310" fill="#465466" font-size="18">RGB  70, 84, 102</text>
+    <text x="800" y="338" fill="#465466" font-size="18">HSL  213.75°, 18.60%, 33.73%</text>
+    <text x="800" y="366" fill="#465466" font-size="18">HSV  213.75°, 31.37%, 40%</text>
+    <text x="800" y="394" fill="#465466" font-size="18">CMYK  31.37%, 17.65%, 0%, 60%</text>
 
-    <rect x="60" y="330" width="340" height="110" rx="14" fill="#F4F7FB" stroke="#465466" stroke-width="2"/>
-    <text x="60" y="480" fill="#10233F" font-size="26" font-weight="700">Light</text>
-    <text x="60" y="512" fill="#465466" font-size="22">#F4F7FB</text>
+    <rect x="60" y="460" width="340" height="110" rx="14" fill="#F4F7FB" stroke="#465466" stroke-width="2"/>
+    <text x="60" y="608" fill="#10233F" font-size="26" font-weight="700">Light</text>
+    <text x="60" y="642" fill="#465466" font-size="18">HEX  #F4F7FB</text>
+    <text x="60" y="670" fill="#465466" font-size="18">RGB  244, 247, 251</text>
+    <text x="60" y="698" fill="#465466" font-size="18">HSL  214.29°, 46.67%, 97.06%</text>
+    <text x="60" y="726" fill="#465466" font-size="18">HSV  214.29°, 2.79%, 98.43%</text>
+    <text x="60" y="754" fill="#465466" font-size="18">CMYK  2.79%, 1.59%, 0%, 1.57%</text>
 
-    <rect x="430" y="330" width="340" height="110" rx="14" fill="#FFFFFF" stroke="#465466" stroke-width="2"/>
-    <text x="430" y="480" fill="#10233F" font-size="26" font-weight="700">White</text>
-    <text x="430" y="512" fill="#465466" font-size="22">#FFFFFF</text>
+    <rect x="430" y="460" width="340" height="110" rx="14" fill="#FFFFFF" stroke="#465466" stroke-width="2"/>
+    <text x="430" y="608" fill="#10233F" font-size="26" font-weight="700">White</text>
+    <text x="430" y="642" fill="#465466" font-size="18">HEX  #FFFFFF</text>
+    <text x="430" y="670" fill="#465466" font-size="18">RGB  255, 255, 255</text>
+    <text x="430" y="698" fill="#465466" font-size="18">HSL  0°, 0%, 100%</text>
+    <text x="430" y="726" fill="#465466" font-size="18">HSV  0°, 0%, 100%</text>
+    <text x="430" y="754" fill="#465466" font-size="18">CMYK  0%, 0%, 0%, 0%</text>
 
-    <rect x="800" y="330" width="340" height="110" rx="14" fill="#D72638"/>
-    <text x="800" y="480" fill="#10233F" font-size="26" font-weight="700">Red</text>
-    <text x="800" y="512" fill="#465466" font-size="22">#D72638</text>
+    <rect x="800" y="460" width="340" height="110" rx="14" fill="#D72638"/>
+    <text x="800" y="608" fill="#10233F" font-size="26" font-weight="700">Red</text>
+    <text x="800" y="642" fill="#465466" font-size="18">HEX  #D72638</text>
+    <text x="800" y="670" fill="#465466" font-size="18">RGB  215, 38, 56</text>
+    <text x="800" y="698" fill="#465466" font-size="18">HSL  353.90°, 69.96%, 49.61%</text>
+    <text x="800" y="726" fill="#465466" font-size="18">HSV  353.90°, 82.33%, 84.31%</text>
+    <text x="800" y="754" fill="#465466" font-size="18">CMYK  0%, 82.33%, 73.95%, 15.69%</text>
 
-    <text x="60" y="580" fill="#465466" font-size="20">Centralized digital tokens for TX-COMU web and application interfaces.</text>
+    <text x="60" y="838" fill="#465466" font-size="20">Digital values use sRGB. CMYK values are approximate starting points and require print proofing.</text>
   </g>
 </svg>
